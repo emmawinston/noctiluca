@@ -1,0 +1,1119 @@
+Lampyris Noctiluca - A taxonomic species within the family Lampyridae (the common glow-worm).
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME night
+51,63,125
+0,0,0
+91,255,63
+
+PAL 1
+NAME sunset
+255,124,108
+0,0,0
+0,0,0
+
+PAL 2
+NAME sunset 2
+194,95,82
+0,0,0
+0,0,0
+
+PAL 3
+NAME dusk
+79,98,194
+0,0,0
+140,255,81
+
+ROOM 0
+r,l,r,l,r,l,r,l,r,l,r,l,r,l,r,l
+q,m,q,m,q,m,q,m,q,m,q,m,q,m,q,m
+i,g,i,g,i,g,i,g,i,g,i,g,i,g,i,g
+l,n,l,n,l,n,l,n,l,n,l,n,l,n,l,n
+m,k,m,k,m,k,m,k,m,k,m,k,m,k,m,k
+g,i,g,i,g,i,g,i,g,i,g,i,g,i,g,i
+n,r,n,r,n,r,n,r,n,r,n,r,n,r,n,r
+t,u,s,u,t,u,s,u,t,u,s,r,t,u,s,u
+0,f,e,f,d,0,e,f,e,f,d,0,e,0,d,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,0,c,0,0,0,0,c,0,b,0,0,c,0,1c,0
+0,0,0,0,b,0,1b,0,0,0,c,0,1a,b,0,c
+v,c,1c,0,0,0,b,0,0,0,1b,c,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+e,0,d,0,e,0,f,e,0,d,0,0,e,0,0,e
+0,e,0,f,0,d,0,0,e,0,f,e,0,d,f,0
+NAME night 1
+ITM 6 8,10
+ITM 6 8,11
+ITM 6 8,12
+EXT 15,10 4 3,11
+EXT 15,11 4 3,11
+EXT 15,12 4 3,11
+PAL 3
+
+ROOM 2
+r,l,r,l,r,l,r,l,r,l,r,l,r,l,r,l
+q,m,q,m,q,m,q,m,q,m,q,m,q,m,q,m
+i,g,i,g,i,g,i,g,i,g,i,g,i,g,i,g
+l,n,l,n,l,n,l,n,l,n,l,n,l,n,l,n
+m,k,m,k,m,k,m,k,m,k,m,k,m,k,m,k
+g,i,g,i,g,i,g,i,g,i,g,i,g,i,g,i
+n,r,n,r,n,r,n,r,n,r,n,r,n,r,n,r
+t,u,s,u,t,u,s,u,t,u,s,r,t,u,s,u
+0,f,e,f,d,0,e,f,e,f,d,0,e,0,d,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,x,c,0,0,0,0,c,0,b,0,0,0,0,0,0
+0,0,0,0,b,0,w,0,0,0,0,0,v,b,0,c
+0,c,x,0,0,0,b,0,0,0,0,c,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+e,0,d,0,e,0,f,e,0,d,0,0,e,0,0,e
+0,e,0,f,0,d,0,0,e,0,f,e,0,d,f,0
+NAME sunset 2
+ITM 4 3,12
+ITM 4 4,12
+ITM 4 4,11
+ITM 4 3,10
+ITM 4 2,10
+ITM 4 2,11
+ITM 4 2,12
+ITM 5 10,10
+ITM 5 10,11
+ITM 5 10,12
+ITM 4 4,10
+EXT 15,10 0 2,11
+EXT 15,11 0 2,11
+EXT 15,12 0 2,11
+PAL 2
+
+ROOM 3
+r,l,r,l,r,l,r,l,r,l,r,l,r,l,r,l
+q,m,q,m,q,m,q,m,q,m,q,m,q,m,q,m
+i,g,i,g,i,g,i,g,i,g,i,g,i,g,i,g
+l,n,l,n,l,n,l,n,l,n,l,n,l,n,l,n
+m,k,m,k,m,k,m,k,m,k,m,k,m,k,m,k
+g,i,g,i,g,i,g,i,g,i,g,i,g,i,g,i
+n,r,n,r,n,r,n,r,n,r,n,r,n,r,n,r
+t,u,s,u,t,u,s,u,t,u,s,r,t,u,s,u
+0,f,e,f,d,0,e,f,e,f,d,0,e,0,d,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,19,c,0,0,0,0,c,1a,b,0,0,0,0,0,0
+0,0,0,0,b,0,w,0,0,0,0,0,1b,b,0,c
+1a,c,x,0,0,0,b,0,0,0,0,c,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+e,0,d,0,e,0,f,e,0,d,0,0,e,0,0,e
+0,e,0,f,0,d,0,0,e,0,f,e,0,d,f,0
+NAME sunset 1
+ITM 1 3,10
+ITM 1 4,10
+ITM 1 4,11
+ITM 1 4,12
+ITM 1 3,12
+ITM 1 2,12
+ITM 1 2,11
+ITM 1 2,10
+ITM 3 14,10
+ITM 3 14,11
+ITM 3 14,12
+ITM 2 8,10
+ITM 2 8,11
+ITM 2 8,12
+EXT 15,10 2 3,11
+EXT 15,11 2 3,11
+EXT 15,12 2 3,11
+PAL 1
+
+ROOM 4
+r,l,r,l,r,l,r,l,r,l,r,l,r,l,r,l
+q,m,q,m,q,m,q,m,q,m,q,m,q,m,q,m
+i,g,i,g,i,g,i,g,i,g,i,g,i,g,i,g
+l,n,l,n,l,n,l,n,l,n,l,n,l,n,l,n
+m,k,m,k,m,k,m,k,m,k,m,k,m,k,m,k
+g,i,g,i,g,i,g,i,g,i,g,i,g,i,g,i
+n,r,n,r,n,r,n,r,n,r,n,r,n,r,n,r
+t,u,s,u,t,u,s,u,t,u,s,r,t,u,s,u
+0,f,e,f,d,0,e,f,e,f,d,0,e,0,d,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,0,c,0,0,0,0,c,0,b,0,0,c,0,0,0
+0,0,0,0,b,0,1c,0,0,0,c,0,1b,b,0,c
+0,c,19,0,0,0,b,0,0,0,1a,c,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+e,0,d,0,e,0,f,e,0,d,0,0,e,0,0,e
+0,e,0,f,0,d,0,0,e,0,f,e,0,d,f,0
+NAME night 2
+ITM a 11,8
+EXT 15,10 5 4,11
+EXT 15,11 5 4,11
+EXT 15,12 5 4,11
+PAL 0
+
+ROOM 5
+r,l,r,l,r,l,r,l,r,l,r,l,r,u,r,l
+q,m,q,m,q,m,q,m,q,m,q,m,14,d,18,m
+i,g,i,g,i,g,i,g,i,g,i,g,12,e,15,g
+l,n,l,n,u,n,l,n,l,n,l,n,l,n,l,n
+m,k,m,16,u,17,m,k,m,k,m,k,m,k,m,k
+g,i,g,12,u,15,g,i,g,i,g,i,g,i,g,i
+n,r,n,r,n,r,n,r,n,r,n,r,n,r,n,r
+t,u,s,u,t,u,s,u,t,u,s,r,t,u,s,u
+0,f,e,f,d,0,e,f,e,f,d,0,e,0,d,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,0,c,x,0,0,0,c,0,b,0,0,c,0,0,0
+0,0,0,0,b,0,w,0,0,0,c,0,19,b,0,c
+0,c,1a,0,0,0,b,0,0,0,19,c,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+e,0,d,0,e,0,f,e,0,d,1a,0,e,0,0,e
+0,e,0,f,0,d,0,0,1a,0,f,e,0,d,f,0
+NAME night 3
+ITM 7 8,10
+ITM 7 8,11
+ITM 7 8,12
+ITM 7 8,14
+ITM 7 8,15
+ITM 7 8,8
+EXT 15,10 6 4,11
+EXT 15,11 6 4,11
+EXT 15,12 6 4,11
+EXT 0,10 4 11,11
+EXT 0,11 4 11,11
+EXT 0,12 4 11,11
+PAL 0
+
+ROOM 6
+r,l,r,l,r,l,r,l,r,l,r,r,r,l,r,l
+q,m,q,m,q,m,q,m,q,m,14,e,13,m,q,m
+i,g,i,g,i,g,i,g,i,g,12,r,15,g,i,g
+l,n,l,n,l,n,l,n,l,n,l,n,l,n,l,n
+m,k,m,k,m,k,m,k,m,k,m,k,m,k,m,k
+g,i,g,i,g,i,g,i,g,i,g,i,g,i,g,i
+n,r,n,r,n,r,n,r,n,r,n,r,n,r,n,r
+t,u,s,u,t,u,s,u,t,u,s,r,t,u,s,u
+0,f,e,f,d,0,e,f,e,f,d,0,e,0,d,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,y
+b,0,c,1c,0,1c,0,c,0,b,0,0,c,0,x,z
+0,0,0,0,b,0,1a,0,0,0,c,0,1a,0,0,z
+0,c,1b,0,0,0,b,0,0,v,0,c,0,1c,0,11
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,10
+e,0,d,0,e,0,f,e,0,d,0,0,e,0,0,e
+0,e,1b,f,0,d,0,0,e,0,f,e,0,d,f,0
+NAME night 4
+ITM a 11,14
+ITM 9 8,11
+ITM 9 7,11
+ITM 9 7,12
+ITM 9 5,12
+ITM 9 3,12
+ITM 9 10,10
+ITM 9 13,11
+ITM 9 14,12
+ITM 9 9,11
+ITM 9 8,10
+ITM 9 5,11
+ITM 9 2,11
+ITM 9 4,12
+ITM 9 8,12
+ITM 9 10,12
+ITM 9 12,12
+ITM 9 11,10
+ITM 9 11,11
+ITM 9 13,10
+ITM 9 14,11
+ITM 9 6,10
+ITM 9 10,14
+ITM 9 8,14
+ITM 9 9,15
+ITM 9 12,15
+ITM 9 14,14
+ITM 9 11,8
+ITM 9 13,8
+ITM 9 15,8
+ITM 9 1,10
+ITM 9 0,8
+ITM 9 5,14
+ITM 9 6,15
+ITM 9 7,15
+ITM 9 4,15
+ITM 9 3,14
+ITM 9 1,14
+ITM 9 0,15
+ITM 9 15,15
+EXT 0,10 5 11,11
+EXT 0,11 5 11,11
+EXT 0,12 5 11,11
+PAL 0
+
+TIL 10
+01000000
+10000000
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 11
+00100000
+00100000
+00010000
+00010000
+00100000
+00100000
+00100000
+01000000
+
+TIL 12
+00100000
+00100000
+01000000
+11000000
+00001010
+00000100
+00000000
+00000000
+
+TIL 13
+10100001
+01001010
+01010011
+00000110
+00000101
+00010110
+00000101
+10000110
+
+TIL 14
+10100000
+01001000
+01010000
+00100000
+00100101
+00110010
+00100000
+10100000
+
+TIL 15
+00000101
+00000010
+01010011
+00100001
+00000000
+00001010
+01000100
+00000000
+
+TIL 16
+10111000
+01001000
+01010000
+00100000
+00100101
+00110010
+00100000
+10100000
+
+TIL 17
+10111001
+01011010
+00000011
+00000110
+00000101
+00010110
+00000101
+10000110
+
+TIL 18
+10100001
+01001010
+00010011
+00000110
+00000101
+00010110
+00000101
+10000110
+
+TIL 19
+00000000
+00000000
+00000000
+00011100
+00100100
+00100100
+00111000
+00000000
+NAME leaf
+
+TIL a
+00000000
+00000000
+00110011
+11001100
+00000000
+00000000
+00000000
+00000000
+
+TIL b
+00000000
+00000010
+00000000
+00100000
+00000100
+00000000
+01000000
+00000000
+
+TIL c
+00000000
+00001000
+00000000
+00000000
+00000000
+01000000
+00000010
+00000000
+
+TIL d
+00000000
+00001010
+00000100
+00000000
+00000000
+01010000
+00100101
+00000010
+
+TIL e
+00000000
+00000000
+01010000
+00100000
+00000000
+00001010
+00000100
+00000000
+
+TIL f
+00000000
+00010000
+01001010
+00101010
+00010100
+00010100
+00001000
+00000000
+>
+00000000
+00001000
+00101010
+00101010
+00010100
+00010100
+00001000
+00000000
+
+TIL g
+01011101
+10111010
+01011101
+10111010
+01111111
+00011000
+01011010
+10011000
+
+TIL h
+00000101
+00000010
+00000011
+00000001
+00000000
+00000000
+00000000
+00000000
+
+TIL i
+01100101
+11000010
+01010011
+10100001
+00000000
+00001010
+01000100
+00000000
+
+TIL j
+10000001
+01000010
+01000010
+00100100
+00100100
+00100100
+00100100
+00100100
+
+TIL k
+10011001
+01011010
+01011011
+00100110
+00101101
+00110110
+00101101
+10100110
+
+TIL l
+10100000
+01000000
+00010100
+00001000
+01000000
+00000001
+00111100
+11000011
+
+TIL m
+00000000
+00000000
+00000000
+10000000
+01010100
+10101000
+01010101
+10101010
+
+TIL n
+00011000
+01011010
+00011100
+00011000
+00011001
+01011010
+10011000
+00011000
+
+TIL o
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+
+TIL p
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+11111110
+
+TIL q
+10100001
+01001010
+01010011
+00100110
+00100101
+00110110
+00100101
+10100110
+
+TIL r
+00000010
+10100100
+01000000
+00000000
+00010100
+00001000
+01000000
+00000000
+
+TIL s
+00011000
+00011000
+01011000
+00011000
+00000001
+00000010
+10100000
+01000000
+
+TIL t
+00011000
+01011000
+10011010
+00011000
+00000000
+00101010
+01000100
+00000000
+
+TIL u
+00000000
+01010100
+00100000
+00000000
+00001010
+01000100
+00100000
+00000000
+
+TIL v
+00000000
+00000000
+00001110
+00010001
+00010001
+01101110
+10010000
+01100000
+
+TIL w
+00000000
+00000000
+00001100
+00010010
+00001100
+00000000
+00000000
+00000000
+
+TIL x
+00000000
+00000000
+00000000
+00000000
+01110000
+10001000
+10001000
+01110000
+
+TIL y
+00000000
+00000000
+10000000
+10000000
+01000000
+01000000
+00100000
+00100000
+
+TIL z
+00100000
+00010000
+00010000
+00100000
+00100000
+00010000
+00010000
+00100000
+
+TIL 1a
+00000000
+00010000
+00101000
+00010000
+00001000
+00001000
+00010000
+00010000
+>
+00000000
+00100000
+01010000
+00100000
+00001000
+00001000
+00010000
+00010000
+NAME flower
+
+TIL 1b
+00000000
+00001100
+01101000
+00010000
+00010000
+00010000
+00010000
+00000000
+
+TIL 1c
+00000000
+00000110
+00001010
+00001100
+01100000
+01010000
+00110000
+00000000
+
+TIL 1d
+00000000
+00111100
+01111110
+11111111
+01011010
+01111110
+01111110
+00000000
+
+TIL 1e
+00000001
+00000001
+00000101
+00000001
+00100001
+00000001
+00000001
+00000001
+
+TIL 1f
+11111111
+00011000
+00011000
+00011000
+00011000
+00000000
+00000000
+00000000
+
+TIL 1g
+00000000
+00000000
+11111111
+00000000
+00000100
+01111110
+00000100
+00000000
+
+TIL 1h
+00100000
+00010000
+00010000
+10100000
+10100000
+10010000
+10010000
+10100000
+
+TIL 1i
+10100000
+10010000
+10010000
+10100000
+10100000
+10010000
+10010000
+10100000
+
+TIL 1j
+00000000
+00000000
+00000000
+00000001
+00000001
+00000001
+00000001
+00000001
+
+TIL 1k
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+SPR A
+00111100
+01101010
+11111110
+00111100
+01111110
+10111101
+00100100
+00100100
+>
+00111100
+11101010
+01111110
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 3 3,11
+COL 1
+
+SPR b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000100
+NAME glow 2
+DLG SPR_2
+POS 5 5,8
+
+SPR c
+11011100
+00101010
+00111110
+00111100
+01111110
+10111101
+00100100
+00100100
+>
+01011100
+10101010
+00111110
+00111100
+01111110
+10111101
+00100100
+00100100
+NAME helene
+COL 1
+
+SPR d
+00111100
+11101010
+01111110
+00111100
+01111110
+10111101
+00100100
+00100100
+>
+10111100
+01101010
+01111110
+00111100
+01111110
+10111101
+00100100
+00100100
+NAME emma
+COL 1
+
+SPR e
+00000000
+00000000
+00000000
+00000100
+00000000
+00000000
+00000000
+00000000
+NAME glow 1
+DLG SPR_0
+POS 4 11,8
+
+SPR f
+00000000
+00000000
+00000100
+00101010
+00011100
+00111000
+01010100
+00100000
+>
+00000000
+00001000
+01010100
+00101000
+00010000
+00001000
+00000000
+00000000
+NAME male 1
+DLG SPR_1
+POS 0 11,11
+COL 1
+
+SPR h
+00000000
+00000100
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME glow 3
+DLG SPR_3
+POS 5 1,14
+
+SPR i
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000010
+00000000
+NAME glow 4
+DLG SPR_4
+POS 5 14,14
+
+SPR j
+00000000
+00000000
+00000000
+00000000
+00000100
+00000000
+00000000
+00000000
+NAME glow 5
+DLG SPR_5
+POS 6 5,8
+
+SPR k
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000100
+00000000
+NAME glow 6
+DLG SPR_7
+POS 6 11,14
+
+SPR l
+00000000
+00000000
+00000100
+00101010
+00011100
+00111000
+01010100
+00100000
+>
+00000000
+00001000
+01010100
+00101000
+00010000
+00001000
+00000000
+00000000
+NAME male 2
+DLG SPR_6
+POS 6 14,14
+COL 1
+
+SPR m
+00111100
+01101010
+11111110
+00111100
+01111110
+10111101
+00100100
+00100100
+>
+00111100
+11101010
+01111110
+00111100
+01111110
+10111101
+00100100
+00100100
+NAME mary
+COL 1
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 1 UNIQUE
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 2 UNIQUE
+DLG ITM_0
+
+ITM 3
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 3 UNIQUE
+DLG ITM_2
+
+ITM 4
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 4 UNIQUE
+DLG ITM_3
+
+ITM 5
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 5 UNIQUE
+DLG ITM_4
+
+ITM 6
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 6 UNIQUE
+DLG ITM_5
+
+ITM 7
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME dialog 7 UNIQUE
+DLG ITM_6
+
+ITM 9
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME ending PERMANENT
+DLG ITM_7
+
+ITM a
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME glow1
+
+DLG SPR_0
+{glow = glow + 1}You found a glow worm! It's not really a worm at all, but a tiny beetle with what looks like a bright green LED light on the underside of its tail. 
+
+DLG ITM_1
+You and your friends, Mary and Helene, climb out of the cab and look around. You're in Broxbourne woods in early July. The sun is setting, and the trees seem impossibly tall against the orange glow of the sky.
+
+DLG ITM_0
+You're waiting for the sun to set; around 55 minutes after nightfall, Mary tells you, the glow worms will begin to come out. Mary knows a lot about glow worms.
+
+DLG ITM_2
+For now, though, you keep walking the path as you wait for sunset to arrive. 
+
+DLG ITM_3
+Female glow worms only have a short time to attract a mate and lay their eggs. In some places, says Mary, you can see them until late summer, but in Broxbourne it's sometimes as short as a week each year.
+
+DLG ITM_4
+There's a chance you might not see any at all, but you're hoping for the best.
+
+DLG SPR_1
+As dusk falls, Mary turns on the light on her phone, and spots a male glow worm. The males can fly, and are attracted to light, though they don't produce much of it themselves.
+
+DLG ITM_5
+Mary tells you to keep an eye on the edges of the path as it gets darker. Female glow worms - lampyris noctiluca, as they're properly called - look like a bright green LED light, often nestled at the base of the grass.
+
+DLG SPR_2
+"""
+{glow = glow + 1}This glow worm is a little too close to the path for comfort; the loggers working here might crush it with their huge wheels. Mary picks it up and moves it away from the path.{
+  - glow == 6 ?
+    You found six glow worms! The evening is beautifully warm, but it's pitch dark and time to head home. Perhaps you'll come back next year. 
+  - else ?
+
+}
+"""
+
+DLG ITM_6
+The loggers moving in has decimated Broxbourne's glow worm population. Once, Mary says she saw 40 in a night; now, even one or two is a rare treat. Still, they hang on, though the conditions might not be optimal.
+
+DLG SPR_3
+{glow = glow + 1}It's pitch dark now, but with her torch, Mary shows you the underside of one of the beetles, a pale, variegated coral pink.  
+
+DLG SPR_4
+{glow = glow + 1}The green lights can be hard to see, tucked away in pockets of grass. When one of you spots one, you call out in excitement, and the others dash over to look. They seem impossibly bright and vibrant for something in nature.
+
+DLG SPR_5
+{glow = glow + 1}You mark the places you find the glow worms as you go, to be reported to the UK Glow Worm Survey.
+
+DLG SPR_6
+Male glow worms are drawn to the light the females produce, and land on them to mate, sometimes more than one at a time - afterwards, the female will turn her glow off and lay eggs.
+
+DLG SPR_7
+{glow = glow + 1}Baby glow worms feed off slugs and snails - sometimes, Mary tells you, bigger than they are.   Their glow is dimmer than the adult females, but sometimes you can see them in the spring daylight.
+
+DLG ITM_7
+"""
+{
+  - glow >= 6 ?
+    (endNow "You found six glow worms! The evening is beautifully warm, but it's pitch dark and time to head home. Perhaps you'll come back next year.")
+}
+"""
+
+END 0
+
+
+END undefined
+
+
+VAR glow
+0
